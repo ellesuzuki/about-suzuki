@@ -1,5 +1,5 @@
 class Suzuki
-	attr_accessor :name, :fave_color, :fave_food
+	attr_reader :name, :fave_color, :fave_food
 
 	def initialize(options={})
 		@name = options.fetch(:name)
