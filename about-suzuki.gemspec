@@ -14,4 +14,5 @@ Gem::Specification.new do |gem|
   gem.name          = "about-suzuki"
   gem.require_paths = ["lib"]
   gem.version       = About::Suzuki::VERSION
+	gem.add_development_dependency 'rspec'
 end
