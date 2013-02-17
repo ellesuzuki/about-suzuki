@@ -1,20 +1,18 @@
 # About::Suzuki
 
-TODO: Write a gem description
+About Elle Suzuki
+
+A test gem, DO NOT USE.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'about-suzuki'
+    gem 'about-suzuki', :github: 'ellesuzuki/about-suzuki'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install about-suzuki
 
 ## Usage
 
