@@ -16,7 +16,14 @@ And then execute:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+suzuki = Suzuki.new
+
+puts "My name is #{suzuki.name}."
+puts
+
+puts "My favorite color is #{suzuki.fave_color}, while my favorite food is #{suzuki.fave_food}."
+```
 
 ## Contributing
 
