@@ -1,5 +1,5 @@
 require "about-suzuki/version"
-require "about-suzuki/about"
+require "about-suzuki/suzuki"
 
 module About
   module Suzuki
