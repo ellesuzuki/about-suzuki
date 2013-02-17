@@ -19,10 +19,10 @@ And then execute:
 ```
 suzuki = Suzuki.new
 
-puts "My name is #{suzuki.name}."
+puts "The author's name is #{suzuki.name}."
 puts
 
-puts "My favorite color is #{suzuki.fave_color}, while my favorite food is #{suzuki.fave_food}."
+puts "Her favorite color is #{suzuki.fave_color}, while her favorite food is #{suzuki.fave_food}."
 ```
 
 ## Contributing
